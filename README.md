@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mariana-vilela-878b5a236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/____marih___/)
 
-![Mariana GitHub stats](https://github-readme-stats.vercel.app/api?username=marivialpe_icons=true&theme=dracula)
+[![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marivialpe)](https://github.com/marivialpe/github-readme-stats)
 
 
 ## Tecnologias que eu uso
