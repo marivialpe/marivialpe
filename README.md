@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mariana Vilela 👋
 
 - 🔭 Desenvolvedora front-end
-- 👾 Cursando Sistemas de Informação (6/8)
+- 👾 Cursando Sistemas de Informação (7/8)
 - 🌱 Estou estudando NextJs 
 - ✍ Atualmente em busca de estágio
   
